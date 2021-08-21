@@ -1,0 +1,67 @@
+.profile
+{
+    width: 100%;
+    height: auto;
+}
+.hello-text
+{
+    background-color: #F06B61;
+    color: white;
+    font-size: 20px;
+    border: none !important;
+}
+.hello-text:hover,.hello-text:focus
+{
+    background-color: #F06B61;
+    color: white;
+    font-size: 20px;
+    border: none !important;
+    cursor:default;   
+}
+.margin-top
+{
+    margin-top: 50px;
+}
+.intro
+{
+    margin-top: 20px;
+    font-size: 35px;
+}
+.dropdown-div {
+    height: 0;
+    margin: 0.5rem 0;
+    overflow: hidden;
+    border-top: 1px solid rgb(133, 128, 128);
+  }
+  .pad-top-sm
+{
+  margin-top: 10px;
+}
+.pr-3
+{
+    padding-right: 10px;
+}
+.spaced-out
+{
+    line-height: 60px;
+}
+.font-increase
+{
+    font-size: 20px;
+}
+.btn-outline-danger {
+    color: #dc3545;
+    background-color: transparent;
+    background-image: none;
+    border-color: #dc3545;
+  }
+  
+  .btn-outline-danger:hover {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-outline-danger:focus, .btn-outline-danger.focus {
+    box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.5);
+  }
